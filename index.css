@@ -38,8 +38,8 @@ h1 {
   width: 25px;
 }
 
-.align-right{
-    margin: 0 0 0 auto;
+.align-right {
+  margin: 0 0 0 auto;
 }
 
 img {
@@ -48,4 +48,17 @@ img {
 
 .caption {
   margin: 0px 25px;
+}
+
+.item {
+  position: relative;
+}
+
+.img-banner {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #cd6858;
+  color: whitesmoke;
+  padding: 10px;
 }
